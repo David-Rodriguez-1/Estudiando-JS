@@ -7,7 +7,7 @@ compra.pop()
 console.log(compra)
 
 const peliFav = [
-    { titulo: "Toy Story", director: "John Lasseter", fecha: VarDate = new Date ("1996 march 19") },
+    { titulo: "Toy Story", director: "John Lasseter", fecha: VarDate = new Date ("1996 march 19") }, //para agregar date de fecha y hora en una objeto. VarDate = new Date();
     { titulo: "El rey leon", director: "Rob Minkoff, Roger Allers", fecha: VarDate = new Date ("1994 july 7") },
     { titulo: "Advenger", director: "Anthony y Joe Russo", fecha: VarDate = new Date ("2019 july 4") },
 ];
